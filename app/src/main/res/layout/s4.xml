@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backg">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/rIV"
+                android:textAlignment="center"
+                android:textColor="@color/read"
+                android:textSize="30sp"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/button25"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:onClick="R_4_1"
+                android:text="@string/IV_1"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/button26"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:onClick="R_4_2"
+                android:text="@string/IV_2"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/button27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:onClick="R_4_3"
+                android:text="@string/IV_3"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/button28"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:onClick="R_4_4"
+                android:text="@string/IV_4"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/button29"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:onClick="R_4_5"
+                android:text="@string/IV_5"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/button30"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:onClick="R_4_6"
+                android:text="@string/IV_6"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/button31"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:onClick="R_4_7"
+                android:text="@string/IV_7"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/button32"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:onClick="R_4_8"
+                android:text="@string/IV_8"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/button33"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:insetLeft="5dp"
+                android:insetTop="5dp"
+                android:insetRight="5dp"
+                android:insetBottom="5dp"
+                android:onClick="R_4_9"
+                android:text="@string/IV_9"
+                android:textAlignment="center"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
