@@ -20,7 +20,8 @@ public class MainActivity extends AppCompatActivity {
     public void Starts(View v)
     {
         Startss();
-    }public void Startss()
+    }
+    public void Startss()
     {
         open = 0;
         setContentView(R.layout.opens);
