@@ -17,7 +17,7 @@
     </style>
     <style name="CustomImage" parent="@style/CustomImagee">
         <item name="android:background">@color/backg</item>
-        <item name="android:src">@drawable/news_1</item>
+        <item name="android:src">@drawable/news_2</item>
     </style>
 
     <style name="CustomImagee">Images</style>
