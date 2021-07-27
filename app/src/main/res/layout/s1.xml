@@ -74,7 +74,7 @@
                 android:insetTop="5dp"
                 android:insetRight="5dp"
                 android:insetBottom="5dp"
-                android:onClick="R_1_3"
+                android:onClick="R_1_4"
                 android:text="@string/I_4"
                 android:textAlignment="center"
                 android:textSize="16sp" />
@@ -88,7 +88,7 @@
                 android:insetTop="5dp"
                 android:insetRight="5dp"
                 android:insetBottom="5dp"
-                android:onClick="R_1_4"
+                android:onClick="R_1_5"
                 android:text="@string/I_5"
                 android:textAlignment="center"
                 android:textSize="16sp" />

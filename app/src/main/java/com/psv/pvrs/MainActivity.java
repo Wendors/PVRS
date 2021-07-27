@@ -91,6 +91,10 @@ public class MainActivity extends AppCompatActivity {
         open = 1;
         Texts("sizo/I/4");
     }
+    public void R_1_5(View v){
+        open = 1;
+        Texts("sizo/I/5");
+    }
     public void R_2_1(View v){
         open = 1;
         Texts("sizo/II/1");
