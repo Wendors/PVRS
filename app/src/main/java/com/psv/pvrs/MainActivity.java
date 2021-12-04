@@ -1,7 +1,7 @@
 package com.psv.pvrs;
 
 import androidx.appcompat.app.AppCompatActivity;
-
+import com.psv.pvrs.R;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
